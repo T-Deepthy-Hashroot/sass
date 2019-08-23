@@ -1,0 +1,19 @@
+$myColor: red;
+
+h1 {
+  color: $myColor;
+}
+
+$bgcolor: lightblue;
+$textcolor: darkblue;
+$fontsize: 18px;
+
+body {
+  background-color: $bgcolor;
+  color: $textcolor;
+  font-size: $fontsize;
+}
+
+p { 
+    color: $myColor;
+}
